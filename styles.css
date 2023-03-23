@@ -1,0 +1,83 @@
+header .header1 p {
+    color: darkgray;
+  }
+  .header1 {
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+  }
+  .header2 {
+    font-family: "PT Sans", Garamond, Tahoma, sans-serif;
+    padding-left: 20px;
+  }
+  .header3 {
+    font-family: "Times New Roman", Times, serif;
+    padding-left: 30px;
+  }
+  .header1 img {
+    display: inline-block;
+  }
+  /*.header1 div {
+    display: inline-block;
+    padding-left: 20px;
+  }*/
+  .header1 li {
+    display: block;
+  }
+  
+  .beforeTable {
+    display: inline-block;
+    margin: 5 5 10 10;
+  }
+  header div {
+    display: inline-block;
+  }
+  .inDiv {
+    height: 2px;
+    background-color: black;
+  }
+  .t1 {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 2em;
+  }
+  .t1 th {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  .t1 td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  .inTab td {
+    border: 0px;
+  }
+  .inTab tr {
+    border: 2px solid black;
+  }
+  .t2 {
+    padding: 2em;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .t2 th {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  .t2 td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  /* body {
+    /*text-align: center;
+    background-image: url("resources/logo.png");
+    background-repeat: no-repeat;
+  } */
+  .t1 {
+    margin: 20px;
+    display: flexbox;
+    justify-content: center;
+  }
+  .t2 {
+    margin: 20px;
+    display: flexbox;
+    justify-content: center;
+  }
