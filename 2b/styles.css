@@ -1,0 +1,14 @@
+h1{
+    color:"#007f66";
+}
+div{
+    display: inline;
+    width: 100%;
+}
+a{
+    width: 20%;
+    color:"#007f66";
+}
+iframe{
+    width: 80%;
+}
